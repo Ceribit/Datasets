@@ -1,4 +1,4 @@
 PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
-892,,"Tabios, Irec David", male, 21, 2, 2, A/5, 21152, 7.26,,S
-893,,"Ginbera, Pablo", male, 20, 3, 1, A/5, 21341, 10,, C
-894,,"Rowling, J.K", female, 53,1,0,113783,26.55,C103,S
+892,,3,"Tabios, Irec David", male, 21, 2, 2, A/5, 21152, 7.26,,S
+893,,2,"Ginbera, Pablo", male, 20, 3, 1, A/5, 21341, 10,, C
+894,,1,"Rowling, J.K", female, 53,1,0,113783,26.55,C103,S
